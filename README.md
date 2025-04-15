@@ -1,5 +1,7 @@
-## Hi there 👋
+## sashiming
 
+- The University of Tokyo
+    - Department of Information Science
 <!--
 **sashiming/sashiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
